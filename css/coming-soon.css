@@ -122,17 +122,17 @@ body {
 @media (min-width: 768px) {
   .social-icons {
     position: absolute;
-    left: 4rem;
+    right: 4rem;
     bottom: 4rem;
   }
   .social-icons ul {
     margin-top: 0;
   }
   .social-icons ul > li {
-    display: inline-block;
-    margin-left: 2rem;
+    display: block;
+    margin-left: 0;
     margin-right: 0;
-    margin-bottom: 6rem;
+    margin-bottom: 2rem;
   }
   .social-icons ul > li:last-child {
     margin-bottom: 0;
